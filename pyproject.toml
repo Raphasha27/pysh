@@ -1,0 +1,11 @@
+[build-system]
+requires = ['setuptools>=64', 'wheel']
+build-backend = 'setuptools.backends._legacy:_Backend'
+
+[project]
+name = 'pysh'
+version = '0.1.0'
+description = 'pysh'
+readme = 'README.md'
+license = { text = 'MIT' }
+requires-python = '>=3.10'
