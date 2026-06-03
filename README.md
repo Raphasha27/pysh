@@ -1,18 +1,30 @@
-# pysh
+# Pysh
 
 A Python-powered shell alternative with smart autocomplete, syntax highlighting, and command history search.
 
 ## Features
 
-- Syntax highlighting for commands and output
-- Smart autocomplete from command history
-- Persistent command history with fuzzy search
-- Plugin system for custom commands
-- Cross-platform (Windows, macOS, Linux)
+- autocomplete
+- cli
+- python
+- shell
+- terminal
+- CLI
 
-## Quick Start
+## Getting Started
+
+Clone the repository:
 
 ```bash
-pip install -e .
-pysh
+git clone https://github.com/Raphasha27/pysh.git
+cd pysh
 ```
+
+## Language
+
+![Language](https://img.shields.io/badge/language-Python-blue)
+
+## License
+
+Distributed under the MIT License.
+
